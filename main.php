@@ -73,5 +73,5 @@ class MyClass
     }
 }
 
-$resultObject = new MyClass();
-var_dump($resultObject->analyze_matrix());
+$result = new MyClass();
+var_dump($result->analyze_matrix());
